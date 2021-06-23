@@ -1,34 +1,27 @@
 {
-    "plumbers": [],
-    "completions": [],
-    "requests": [
-        {
-            "id": 1,
-            "description": "Aut sint voluptatem fugit eius quas molestiae modi.",
-            "address": "34445 Bianka Ports",
-            "budget": 400,
-            "neededBy": "2021-08-27"
-        },
-        {
-            "id": 2,
-            "description": "Kansas monitor Sleek",
-            "address": "18993 Clement Court",
-            "budget": 800,
-            "neededBy": "Thu Jun 16 2022 08:45:35 GMT-0500 (Central Daylight Time)"
-        },
-        {
-            "id": 3,
-            "description": "rerum vero ex",
-            "address": "00231 Harvey Landing",
-            "budget": 800,
-            "neededBy": "Sun Apr 03 2022 06:02:44 GMT-0500 (Central Daylight Time)"
-        },
-        {
-            "id": 4,
-            "description": "consequatur ut voluptas",
-            "address": "8703 Lori Valleys",
-            "budget": 1000,
-            "neededBy": "Thu Aug 12 2021 15:41:24 GMT-0500 (Central Daylight Time)"
-        }
-    ]
+  "plumbers": [],
+  "completions": [],
+  "requests": [
+    {
+      "id": 1,
+      "description": "Aut sint voluptatem fugit eius quas molestiae modi.",
+      "address": "34445 Bianka Ports",
+      "budget": 400,
+      "neededBy": "2021-08-27"
+    },
+    {
+      "id": 2,
+      "description": "Kansas monitor Sleek",
+      "address": "18993 Clement Court",
+      "budget": 800,
+      "neededBy": "Thu Jun 16 2022 08:45:35 GMT-0500 (Central Daylight Time)"
+    },
+    {
+      "id": 3,
+      "description": "rerum vero ex",
+      "address": "00231 Harvey Landing",
+      "budget": 800,
+      "neededBy": "Sun Apr 03 2022 06:02:44 GMT-0500 (Central Daylight Time)"
+    }
+  ]
 }
